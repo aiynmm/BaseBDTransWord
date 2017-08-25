@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">仿百度翻译</string>
+    <string name="title_home">查字</string>
+    <string name="title_collection">收藏夹</string>
+    <string name="title_dashboard">小应用</string>
+    <string name="title_me">我</string>
+    <string name="show_title">属性展示</string>
+</resources>
